@@ -53,7 +53,7 @@ const stkPush = async (req, res) => {
     PartyB: 174379,
     PhoneNumber: `254${phone}`,
     CallBackURL: "https://mydomain.com/path",
-    AccountReference: "Orem Mpesa Test",
+    AccountReference: "Gemfund Mpesa Test",
     TransactionDesc: "Testing stk push",
   };
 
